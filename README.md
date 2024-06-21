@@ -24,3 +24,4 @@ Outcome:
 The project provided valuable insights into sales trends and patterns, and identified areas for optimization, such as increasing marketing efforts in certain regions, promoting certain product categories, and optimizing pricing strategies. The use of pandas allowed for efficient and effective data manipulation and analysis, and facilitated the interpretation of complex data in a user-friendly manner.
 
 Overall, this project demonstrated the power and versatility of the pandas library for data analysis tasks, and highlighted the importance of data-driven decision-making in business.
+
